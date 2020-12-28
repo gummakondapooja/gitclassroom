@@ -12,11 +12,11 @@ public static void main(String[] args)
 }
 if(count==2)
 {
-System.out.println("given number is prime");
+System.out.println("Given number is prime");
 }
 else
 {
-System.out.println("given number is not a prime");
+System.out.println("Given number is not a prime");
 }
 }
 }
